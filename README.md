@@ -1,6 +1,6 @@
 # GUISE & AXIS
 
-Training code for **How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense**.
+Official implementation for **How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense**.
 
 [Paper (arXiv 2610.11005)](https://arxiv.org/abs/2610.11005) · [Project page](https://jye16.github.io/guise/)
 
