@@ -1,0 +1,11 @@
+# Install torch first, from the wheel index that matches your CUDA version, e.g.
+#   pip install torch==2.11.0 --index-url https://download.pytorch.org/whl/cu128
+# Versions below are the ones the code was tested with.
+transformers==5.12.1
+peft==0.21.2
+accelerate==1.14.0
+safetensors==0.8.0
+tokenizers==0.22.2
+huggingface_hub==1.20.1
+numpy==2.4.6
+scipy==1.17.1
